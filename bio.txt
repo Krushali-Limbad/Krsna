@@ -1,2 +1,3 @@
 Name: Krushali Limbad
 Skills: HTML, CSS, JS, REACT, NEXT
+Email: Krushalilimbad24@gmail.com
